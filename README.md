@@ -1,4 +1,4 @@
-# Project Lumina
+# Project Axiom
 
 **Shedding light on the hidden circuits of Vision-Language-Action models.**
 
